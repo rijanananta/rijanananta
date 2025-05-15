@@ -15,8 +15,6 @@
 ## 🌟 About Me
 
 - 👨‍🎓 I’m an active student majoring in Informatics.
-- 🌱 Currently learning frontend, backend, and Android development with Kotlin + Jetpack Compose.
-- 💬 Still a newbie, but always eager to learn!
 
 ---
 
