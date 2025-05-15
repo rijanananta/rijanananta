@@ -31,16 +31,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=irvandiramadhanabbas&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvandiramadhanabbas&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rijanananta&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijanananta&layout=compact&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irvandiramadhanabbas&theme=gruvbox&row=1&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rijanananta&theme=gruvbox&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irvandiramadhanabbas&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rijanananta&theme=tokyonight" />
 </div>
 
 ---
@@ -48,11 +48,11 @@
 ## 🪪 Dev Card
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irvandiramadhanabbas&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irvandiramadhanabbas&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irvandiramadhanabbas&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irvandiramadhanabbas&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=irvandiramadhanabbas&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rijanananta&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rijanananta&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rijanananta&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rijanananta&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rijanananta&theme=tokyonight" />
 </div>
 
 ---
